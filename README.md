@@ -11,5 +11,6 @@ https://archive.ics.uci.edu/ml/datasets/Autistic+Spectrum+Disorder+Screening+Dat
 
 
 
-The output of this best predictive model of these three data set is autism_screening_RF_regression_model.pkl
+The output of this best predictive model of these three data set is autism_screening_RF_regression_model.pkl.
+
 The predictive outcome, probability, and risk level can be found in ASD_screening_predictions.csv
